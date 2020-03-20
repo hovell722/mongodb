@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"/Users/jameshovell/code/opscode/vagrant102/mongodb/starter_code/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jameshovell/code/opscode/vagrant102/mongodb/starter_code","disabled":false,"__vagrantfile":true}}}
